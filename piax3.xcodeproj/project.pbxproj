@@ -16,6 +16,7 @@
 		117F930E26F870740062721C /* piax3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 117F930D26F870740062721C /* piax3Tests.swift */; };
 		117F931826F870740062721C /* piax3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 117F931726F870740062721C /* piax3UITests.swift */; };
 		117F931A26F870740062721C /* piax3UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 117F931926F870740062721C /* piax3UITestsLaunchTests.swift */; };
+		117F932726F8A1CB0062721C /* CounterScript.swift in Sources */ = {isa = PBXBuildFile; fileRef = 117F932626F8A1CB0062721C /* CounterScript.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		117F931326F870740062721C /* piax3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = piax3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		117F931726F870740062721C /* piax3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = piax3UITests.swift; sourceTree = "<group>"; };
 		117F931926F870740062721C /* piax3UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = piax3UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		117F932626F8A1CB0062721C /* CounterScript.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterScript.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		117F92EA26F870730062721C = {
 			isa = PBXGroup;
 			children = (
+				117F932626F8A1CB0062721C /* CounterScript.swift */,
 				117F92F526F870730062721C /* piax3 */,
 				117F930C26F870740062721C /* piax3Tests */,
 				117F931626F870740062721C /* piax3UITests */,
@@ -261,6 +264,7 @@
 				117F92FB26F870730062721C /* ViewController.swift in Sources */,
 				117F92F726F870730062721C /* AppDelegate.swift in Sources */,
 				117F92F926F870730062721C /* SceneDelegate.swift in Sources */,
+				117F932726F8A1CB0062721C /* CounterScript.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
